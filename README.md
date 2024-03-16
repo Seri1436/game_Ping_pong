@@ -1,4 +1,4 @@
-# game_Ping_pong# Python Space Invaders Game with Pygame
+# game_Ping_pong# Python Ping Pong Game with Pygame
 
 Explore the world of game development with this Python Ping Pong Game built using the Pygame library
 
